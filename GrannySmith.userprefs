@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Attached to Body/ParticleSystems/BloodSpatter.js">
+    <Files>
+      <File FileName="../../Downloads/GameKitJNA/CopyIntoXCodeProject/GameKitJNABinding.m" Line="1" Column="1" />
+      <File FileName="../../Downloads/GameKitJNA/CopyIntoXCodeProject/GameKitJNA.mm" Line="44" Column="5" />
+      <File FileName="../../Downloads/GameKitJNA/CopyIntoXCodeProject/GameKitJNA.h" Line="20" Column="54" />
+      <File FileName="Assets/Scripts/Standard Assets/Scripts/GameKitJNABinding.cs" Line="52" Column="3" />
+      <File FileName="../GrannySmith3/Assets/Standard Assets/Scripts/GameKitJNABinding.cs" Line="66" Column="21" />
+      <File FileName="Assets/Scripts/Attached to Body/ParticleSystems/BloodSpatter.js" Line="82" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

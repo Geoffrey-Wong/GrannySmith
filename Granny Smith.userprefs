@@ -1,0 +1,97 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Image Effects (Pro Only)\MotionBlur.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\MegaFier Scripts\MegaFiers\Modifiers\Morph\MegaMorph.cs" Line="108" Column="2" />
+      <File FileName="Assets\Scripts\Attached to Camera\music.cs" Line="22" Column="42" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_Carousel.js" Line="184" Column="47" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_MainMenu_SlidingProfile.js" Line="508" Column="40" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_WelcomeScreen.js" Line="80" Column="1" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_IntroScreen.js" Line="31" Column="57" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_GameCenterSignUp.js" Line="159" Column="10" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_EmailSignUp.js" Line="222" Column="44" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_ScoreFloat.js" Line="45" Column="113" />
+      <File FileName="Assets\Scripts\networkingclient.js" Line="658" Column="40" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_GamePlayScreen.js" Line="338" Column="41" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_DemoIntroScreen.js" Line="33" Column="29" />
+      <File FileName="Assets\Scripts\Attached to Tools\Assistant View\AssistantCamera.js" Line="42" Column="10" />
+      <File FileName="Assets\Scripts\Attached to Camera\DetermineGesture.js" Line="40" Column="27" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_AssistantView.js" Line="448" Column="10" />
+      <File FileName="Assets\Scripts\Attached to Camera\music.js" Line="23" Column="36" />
+      <File FileName="Assets\Scripts\Attached to Body\Attached to Organs\SkinFatAction.js" Line="16" Column="69" />
+      <File FileName="Assets\Scripts\Attached to Body\ParticleSystems\BloodCollision.js" Line="28" Column="45" />
+      <File FileName="Assets\Scripts\Attached to Body\ParticleSystems\BleedingOutCollision.js" Line="47" Column="9" />
+      <File FileName="Assets\Scripts\Attached to Body\Vitals.js" Line="92" Column="16" />
+      <File FileName="Assets\Scripts\Attached to Tools\Syringe.js" Line="104" Column="5" />
+      <File FileName="Assets\Scripts\Attached to Body\Attached to Organs\RectusAction.js" Line="76" Column="76" />
+      <File FileName="Assets\Scripts\Attached to Body\Attached to Organs\PeritoneumAction.js" Line="36" Column="28" />
+      <File FileName="Assets\Scripts\Attached to Body\Attached to Organs\OrganBase.js" Line="37" Column="26" />
+      <File FileName="Assets\Scripts\Attached to Camera\DrawLineStitches.js" Line="169" Column="10" />
+      <File FileName="Assets\Scripts\Attached to Tools\ToolsAppliedToSkin.js" Line="67" Column="19" />
+      <File FileName="Assets\Scripts\Attached to Tools\Gauze.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Attached to Tools\Dropper.js" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\Attached to Tools\Clamp.js" Line="88" Column="54" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_MainMenu.js" Line="31" Column="30" />
+      <File FileName="Assets\Scripts\Attached to Tools\LapSponge.js" Line="43" Column="3" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_AssistantSubMenu.js" Line="1609" Column="55" />
+      <File FileName="Assets\Scripts\Attached to Body\Points.js" Line="43" Column="20" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_PatientChart.js" Line="262" Column="159" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_GamePlayPrompt.js" Line="5" Column="31" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\MainGUILoadingLevels.js" Line="192" Column="52" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_LoadingScreen.js" Line="57" Column="77" />
+      <File FileName="Assets\Scripts\Attached to Camera\effects.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Attached to Camera\LoadAssetsMainScene.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_Fade.js" Line="129" Column="14" />
+      <File FileName="Assets\Scripts\Attached to Tools\ToolList.js" Line="212" Column="35" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_LoginScreen.js" Line="294" Column="29" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_ConfirmPrompt.js" Line="152" Column="29" />
+      <File FileName="Assets\Scripts\Attached to Tools\Retractor.js" Line="29" Column="8" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_GamePlayOptionsMenu.js" Line="199" Column="19" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_GamePlaySoundsMenu.js" Line="131" Column="25" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_GameMainMenu.js" Line="108" Column="5" />
+      <File FileName="Assets\Scripts\Attached to Tools\ToolsBase.js" Line="80" Column="60" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_ConfirmPromptManager.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_PostOpReport.js" Line="449" Column="28" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_PatientChartFull.js" Line="279" Column="46" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\MainGUI.js" Line="231" Column="4" />
+      <File FileName="Assets\Scripts\Attached to Body\Attached to Organs\UterusAction.js" Line="237" Column="7" />
+      <File FileName="Assets\Scripts\Attached to Tools\ToolOrganizer.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Attached to Body\Attached to Organs\Organizer.js" Line="377" Column="103" />
+      <File FileName="Assets\Scripts\Attached to Tools\Suture.js" Line="14" Column="16" />
+      <File FileName="Assets\Scripts\Attached to Tools\Dermabond.js" Line="163" Column="25" />
+      <File FileName="Assets\Scripts\Attached to Tools\Interceed_Strip.js" Line="23" Column="73" />
+      <File FileName="Assets\Scripts\Attached to Camera\LoadAssets.js" Line="330" Column="38" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_DemoGamePlayScreen.js" Line="1221" Column="17" />
+      <File FileName="Assets\Scripts\Attached to Camera\ambient.js" Line="36" Column="1" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_Base.js" Line="70" Column="50" />
+      <File FileName="Assets\Scripts\Attached to Tools\Interceed.js" Line="109" Column="100" />
+      <File FileName="Assets\Scripts\Enums_Structs.js" Line="80" Column="127" />
+      <File FileName="Assets\Scripts\Attached to Camera\MainScript.js" Line="1024" Column="10" />
+      <File FileName="Assets\Scripts\Attached to Camera\GUI Scripts\GUI_FeedbackBar.js" Line="87" Column="18" />
+      <File FileName="Assets\Standard Assets\Image Effects (Pro Only)\MotionBlur.cs" Line="29" Column="1" />
+      <File FileName="Assets\Pro Standard Assets\Image Based\ImageEffectBase.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Pro Standard Assets" expanded="True">
+                <Node name="Image Based" expanded="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Image Effects (Pro Only)" expanded="True">
+                  <Node name="MotionBlur.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
